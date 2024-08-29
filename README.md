@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajneesh a first-year College Student studying in Bengaluru.
 - 👀 I’m interested in Coding and building tech products that solve problems at scale
 - 🌱 I’m currently learning C++ & DSA and will start learning MERN Stack Soon.
-- 📫 You can connect with me on Linkedin (www.linkedin.com/in/rajneeshsingh2005)
+- 📫 You can connect with me on Linkedin (www.linkedin.com/in/rajneeshsingh2005) and X (https://x.com/iamRaj2005)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Planning to drop out.
